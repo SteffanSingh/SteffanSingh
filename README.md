@@ -12,10 +12,10 @@
   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/7c8fc8113fdf8731608707a49fa45fbd671877f9/toolbox-icon.jpeg" alt=""   width="12px" style="display:inline-block;" />
   </p>   
   
- ### Languages and Tools  
+ ### <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/ptyhon-logo.jpeg" alt=""   width="40px" /> &nbsp <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/71916e11f7242b9de2c493ac2a2f1b0474c552cd/flaskNeW-logo.png" alt=""   width="40px" />  Languages and Tools  
  
-   <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/ptyhon-logo.jpeg" alt=""   width="40px" />
-   <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/71916e11f7242b9de2c493ac2a2f1b0474c552cd/flaskNeW-logo.png" alt=""   width="40px" />
+   
+   
    <img align="left" style="padding-right:10px;" src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/sql-logo.png" alt=""   width="40px" />
    <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/html-logo.png" alt=""   width="40px" />
    <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/css-log.png" alt=""   width="40px" />
