@@ -28,7 +28,7 @@
    
  <hr/> 
  
- ### 📺 Latest YouTube Videos and Project Demos
+ <details>  📺 <summary><h3> Latest YouTube Videos and Project Demos</h3> </summary>
  
 <!-- BEGIN YOUTUBE-CARDS 
 
@@ -41,7 +41,7 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 -->
-
+</details>
 
 <hr/>
   
