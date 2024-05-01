@@ -17,6 +17,7 @@
  <p> <img src="https://github.com/SteffanSingh/SteffanSingh/blob/7c8fc8113fdf8731608707a49fa45fbd671877f9/technology-icon.png" alt="" height="12px" width="12px" style="display:inline-block;" />
   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/7c8fc8113fdf8731608707a49fa45fbd671877f9/toolbox-icon.jpeg" alt="" height="12px" width="12px" style="display:inline-block;" />
   </p>   
+  
  ### Languages and Tools  
   
   
