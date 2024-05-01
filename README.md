@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/ashutosh-kapoor/
+<a href="https://www.linkedin.com/in/ashutosh-kapoor/"> <img src="" alt="Linkedln" /> </a>
 ### Hi there, i am Steffan👋.
 # 
 <!--
