@@ -16,13 +16,13 @@
 ### Languages and Tools
   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/ptyhon-logo.jpeg" alt=""   width="40px" />
    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/flask-logo.png" alt=""   width="40px" />
-   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/sql-logo.png" alt=""   width="40px" />
-   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/html-logo.png" alt=""   width="40px" />
-   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/css-log.png" alt=""   width="40px" />
-    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/javasript-logo.jpeg" alt=""   width="40px" />
-    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/fatAPI-logo.png" alt=""   width="40px" />
-    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/pycharm-logo.jpeg" alt=""   width="40px" />
-     <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/vsCode-logo.png" alt=""   width="40px" />
+   <img align="left" style="padding-right:10px;" src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/sql-logo.png" alt=""   width="40px" />
+   <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/html-logo.png" alt=""   width="40px" />
+   <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/css-log.png" alt=""   width="40px" />
+    <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/javasript-logo.jpeg" alt=""   width="40px" />
+    <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/fatAPI-logo.png" alt=""   width="40px" />
+    <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/pycharm-logo.jpeg" alt=""   width="40px" />
+     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/vsCode-logo.png" alt=""   width="40px" />
    
 <!--
 **SteffanSingh/SteffanSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
