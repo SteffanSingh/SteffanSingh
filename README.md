@@ -8,7 +8,7 @@
     </a>
  </p> <h1>Steffan</h1>
 
-** `Software programmer | Backend developer`**
+**`Software Programmer | Backend developer`**
 ### Hi there, i am Steffan👋.
 # 
 <!--
