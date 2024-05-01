@@ -7,8 +7,8 @@
     <a href="https://1drv.ms/b/s!AhoLEc6fClnVvz3DdVm9ITRwfIod?e=ZaXUAD" target="_blank" style="display: inline-block;">
         <img src="https://github.com/SteffanSingh/SteffanSingh/blob/45987fe0e2b1ed1dff3d0c94556992862afcd8c3/cv-logo.png" alt="Linkedln" height="60px" width="60px">
     </a>
- <h2>Steffan</h2> 
  </p> 
+ <h2>Steffan</h2> 
 
 
 
