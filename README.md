@@ -32,19 +32,20 @@
  
 
 <div style="display:flex;flex-wrap:wrap;justify-content: space-between;">
-<a href="https://youtu.be/-at2ps5mNJE" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;">
+<a href="https://youtu.be/-at2ps5mNJE"   margin-right: 10px; margin-bottom: 10px;">
     <img src="https://github.com/SteffanSingh/SteffanSingh/blob/8759a65f8547ea2cb692243de76e24f8449b6583/moveiStar-thumb.png" alt="MovieStar-Show Demo" width="250">
   </a>
 
-<a href="https://youtu.be/-at2ps5mNJE" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;">
-    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" alt="MovieStar-Show Demo" width="250">
-  </a>
-  
+
  </div>
  
 
   <!-- BEGIN YOUTUBE-CARDS  
+<a href="https://youtu.be/-at2ps5mNJE" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;">
+    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" alt="MovieStar-Show Demo" width="250">
+  </a>
 
+  
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 -->
 
