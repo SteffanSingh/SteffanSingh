@@ -35,21 +35,23 @@
  <hr/> 
   
  <details> <summary><h3> Steffan`s journey</h3> </summary>
-  I started my coding journey with Masterchool Software engineerirng program. Although i was always curious since my childood about how coding is responsible for all great things in software field, like in wesite developement, social-networking website or AI fucntionality.<br> I was looking for an opportunity to explore my coding skill to build the websites and web applications. Finally, i eventually overcame my exposure of coding with Masterschool.<br>
+            I started my coding journey with Masterchool Software engineerirng program. Although i was always curious since my childood about how coding is responsible for all great things in software field, like in wesite developement, social-networking website or AI fucntionality.<br> 
+   I was looking for an opportunity to explore my coding skill to build the websites and web applications. Finally, i eventually overcame my exposure of coding with Masterschool.<br>
    Looking forward to excel the career in software field as a backend developer.
   </details> 
 
    <hr/>
    <details> <summary><h3>📫 Contact information</h3> </summary>
-     <h4> Email:kapoorporto@gmail.com</h4>
-    <h4> Mobile:  +46 735758301</h4>
+     <h4> Email:  kapoorporto@gmail.com</h4>
+    <h4> Mobile:  +46 735 75 8301</h4>
   </details> 
   
    <hr/>
   
    <details> <summary><h3>⚡ Fun facts</h3> </summary>
       I like playing chess and watching hollywood comedy, action, suspense movies and series.<br>
-   Wanna play chess with me 😄😄😄😄😄
+   Wanna play chess with me 😄😄😄😄😄<br> 
+    
   </details>
 <!--
 **SteffanSingh/SteffanSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
