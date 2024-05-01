@@ -9,7 +9,7 @@
  </p> <h1>Steffan</h1>
 
 **`Software Programmer | Backend developer`**
- <p> Hi there👋. I am a  Backend Developer with front-end knowledge(HTML | CSS |Javascript | React) as well. I am a recent graduate from MASTERSCHOOL in Software engineering.I have a progressive mind with artistic heart that i utilize in my professional field.<br>
+ <p> Hi there👋. I am a  Backend Developer with front-end knowledge as well. I am a recent graduate from MASTERSCHOOL in Software engineering.I have a progressive mind with artistic heart that i utilize in my professional field.<br>
         I am proficient in Python| Flask| SQL for backend developing and ready to explore my career as a backend developer and to upgrade my learning to  next level while working. <br>
         I am assured that my aptitude and attitude can contribute considerable value to any project team.
   </p>
