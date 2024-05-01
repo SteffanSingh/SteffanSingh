@@ -34,7 +34,7 @@
  <hr/> 
   
  <details> <summary><h3> Steffan`s journey</h3> </summary>
-  I started my coding journey with Masterchool Software engineerirng program. Although i was always curious since my childood about how coding is responsible for all great things in software field, like in wesite developement, social-networking website or AI fucntionality. I was looking for an opportunity to explore my coding skill to build the websites and web applications. Finally, i eventually overcame my exposure of coding with Masterschool.
+  I started my coding journey with Masterchool Software engineerirng program. Although i was always curious since my childood about how coding is responsible for all great things in software field, like in wesite developement, social-networking website or AI fucntionality.<br> I was looking for an opportunity to explore my coding skill to build the websites and web applications. Finally, i eventually overcame my exposure of coding with Masterschool.<br>
    Looking forward to excel the career in software field as a proficent backend developer.
   </details>
     
