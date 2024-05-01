@@ -34,11 +34,11 @@
 <div style="display:flex;flex-wrap:wrap;justify-content: space-between;">
  
 <a href="https://youtu.be/-at2ps5mNJE" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;>
- <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" width="250px" alt="MovieStar Show project demo"/> 
+ <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" width="250px" alt="MovieStar Show project demo" > 
   </a>
 
 <a href="https://youtu.be/-at2ps5mNJE" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;>
- <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" width="250px" alt="MovieStar Show project demo"/> 
+ <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" width="250px" alt="MovieStar Show project demo" > 
   </a>
   
  </div>
