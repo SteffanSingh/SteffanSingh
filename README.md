@@ -31,7 +31,7 @@
  <details>   <summary><h3> 📺 Latest YouTube Videos and Project Demos</h3> </summary>
  
 
-<div style="display:flex;flex-wrap:wrap;">
+<div style="display:flex;flex-wrap:wrap;flex-direction:column;">
  
  [![MovieStar Show project demo](https://ytcards.demolab.com/?id=zG1cM9VSINg&title=A+Complete+Overview+of+DevOps&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=867 "Movie Star Show project demo")](https://youtu.be/-at2ps5mNJE)
 
