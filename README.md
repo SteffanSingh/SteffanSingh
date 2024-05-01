@@ -1,6 +1,6 @@
 
  
-# [<img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="" height="50px" width="50px" style="display: inline-block;" />] Steffan &nbsp;[<img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="" height="50px" width="50px" style="display: inline-block;" />](https://www.linkedin.com/in/ashutosh-kapoor/) [<img src="https://github.com/SteffanSingh/SteffanSingh/blob/45987fe0e2b1ed1dff3d0c94556992862afcd8c3/cv-logo.png" width="30" alt="LinkedIn Icon">](https://1drv.ms/b/s!AhoLEc6fClnVvz3DdVm9ITRwfIod?e=ZaXUAD)
+# <img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="" height="50px" width="50px" style="display: inline-block;" /> Steffan &nbsp;<img src="https://github.com/SteffanSingh/SteffanSingh/blob/b15ebd30dece952e73467f80c6b7a5de93badd6b/Linkedln-Logo.png" alt="" height="50px" width="50px" style="display: inline-block;" />(https://www.linkedin.com/in/ashutosh-kapoor/) [<img src="https://github.com/SteffanSingh/SteffanSingh/blob/45987fe0e2b1ed1dff3d0c94556992862afcd8c3/cv-logo.png" width="30" alt="LinkedIn Icon">](https://1drv.ms/b/s!AhoLEc6fClnVvz3DdVm9ITRwfIod?e=ZaXUAD)
 
 **`Software Programmer | Backend developer`**
  <p> Hi there👋. I am a  Backend Developer with front-end knowledge as well. I am a recent graduate from MASTERSCHOOL in Software engineering.I have a progressive mind with artistic heart that i utilize in my professional field.<br>
