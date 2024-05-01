@@ -32,10 +32,14 @@
  
 
 <div style="display:flex;flex-wrap:wrap;flex-direction:column;">
- 
- [![MovieStar Show project demo](https://ytcards.demolab.com/?id=zG1cM9VSINg&title=A+Complete+Overview+of+DevOps&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=867 "Movie Star Show project demo")](https://youtu.be/-at2ps5mNJE)
+<a href="https://youtu.be/-at2ps5mNJE" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;>
+ <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" alt="MovieStar Show project demo"/> 
+  </a>
 
-[![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
+ <a href="https://youtu.be/-at2ps5mNJE" style="flex: 0 0 calc(33.33% - 10px); margin-right: 10px; margin-bottom: 10px;>
+ <img src="https://github.com/SteffanSingh/SteffanSingh/blob/ff0a21e7b032cf70b193b7a5c1ed8c1aa48c2712/Movie-Star-show-Thumbnail.png" alt="MovieStar Show project demo"/> 
+  </a>
+  
  </div>
  
 
