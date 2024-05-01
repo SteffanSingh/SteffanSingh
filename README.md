@@ -19,6 +19,7 @@
   </p>   
   
  ### Languages and Tools  
+ 
  #
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/ptyhon-logo.jpeg" alt=""   width="40px" />
    <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/71916e11f7242b9de2c493ac2a2f1b0474c552cd/flaskNeW-logo.png" alt=""   width="40px" />
@@ -29,7 +30,7 @@
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/fatAPI-logo.png" alt=""   width="40px" />
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/pycharm-logo.jpeg" alt=""   width="40px" />
      <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/vsCode-logo.png" alt=""   width="40px" />
-   # 
+     
    ### My journey
 <!--
 **SteffanSingh/SteffanSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
