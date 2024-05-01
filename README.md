@@ -1,8 +1,8 @@
-<img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="" height="50px" width="50px" /><h1>Steffan</h1> 
-<a href="https://www.linkedin.com/in/ashutosh-kapoor/" target="_blank">
-<img src="https://github.com/SteffanSingh/SteffanSingh/blob/e5782e8bb7fb83ac26d1e7617d42dd872bf7302b/Linkedln-Logo.png" alt="Linkedln"  height="60px" width="60px"  /> </a>
-<a href="https://drive.google.com/drive/my-drive" target="_blank">
+<img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="" height="50px" width="50px" /><h1>Steffan</h1> <a href="https://www.linkedin.com/in/ashutosh-kapoor/" target="_blank">
+<img src="https://github.com/SteffanSingh/SteffanSingh/blob/e5782e8bb7fb83ac26d1e7617d42dd872bf7302b/Linkedln-Logo.png" alt="Linkedln"  height="60px" width="60px"  /> </a><a href="https://onedrive.live.com/?cid=D5590A9FCE110B1A&id=D5590A9FCE110B1A%218125&parId=root&o=OneUp" target="_blank">
 <img src="https://github.com/SteffanSingh/SteffanSingh/blob/45987fe0e2b1ed1dff3d0c94556992862afcd8c3/cv-logo.png" alt="Linkedln"  height="60px" width="60px"  /> </a>
+
+
 ### Hi there, i am Steffan👋.
 # 
 <!--
