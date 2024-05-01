@@ -8,7 +8,6 @@
         <img src="https://github.com/SteffanSingh/SteffanSingh/blob/45987fe0e2b1ed1dff3d0c94556992862afcd8c3/cv-logo.png" alt="Linkedln" height="60px" width="60px">
     </a>
  </p> 
-# Steffan
 
 
 
