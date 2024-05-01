@@ -28,7 +28,7 @@
    
  <hr/> 
  
- 📺<details>   <summary><h3> Latest YouTube Videos and Project Demos</h3> </summary>
+ <details>   <summary><h3> 📺 Latest YouTube Videos and Project Demos</h3> </summary>
  
 <!-- BEGIN YOUTUBE-CARDS 
 
