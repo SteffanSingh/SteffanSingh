@@ -1,4 +1,4 @@
- # Steffan 
+ <h2>Steffan</h2> 
  <p>
     <img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="" height="50px" width="50px" style="display: inline-block;">
     
