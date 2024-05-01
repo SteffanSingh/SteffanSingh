@@ -29,11 +29,10 @@
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/javasript-logo.jpeg" alt=""   width="40px" />
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/fatAPI-logo.png" alt=""   width="40px" />
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/pycharm-logo.jpeg" alt=""   width="40px" />
-     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/vsCode-logo.png" alt=""   width="40px" />
+     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/vsCode-logo.png" alt=""   width="40px" /><br>
      
-  <hr/>   
-  
-  
+   
+  #
  <details> <summary><h3> Steffan`s journey</h3> </summary>
   I started my coding journey with Masterchool Software engineerirng program. Although i was always curious since my childood about how coding is responsible for all great things in software field, like in wesite developement, social-networking website or AI fucntionality. I was looking for an opportunity to explore my coding skill to build the websites and web applications. Finally, i eventually overcame my exposure of coding with Masterschool.
    Looking forward to excel the career in software field as a proficent backend developer.
