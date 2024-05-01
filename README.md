@@ -9,11 +9,21 @@
  </p> <h1>Steffan</h1>
 
 **`Software Programmer | Backend developer`**
- <p> Hi there👋. I am a  Backend Developer with front-end knowledge(HTML|CSS|Javascript|React) as well. I am a recent graduate from MASTERSCHOOL in Software engineering.I have a progressive mind with artistic heart that i utilize in my professional field.<br>
+ <p> Hi there👋. I am a  Backend Developer with front-end knowledge(HTML | CSS |Javascript | React) as well. I am a recent graduate from MASTERSCHOOL in Software engineering.I have a progressive mind with artistic heart that i utilize in my professional field.<br>
         I am proficient in Python| Flask| SQL for backend developing and ready to explore my career as a backend developer and to upgrade my learning to  next level while working. <br>
         I am assured that my aptitude and attitude can contribute considerable value to any project team.
   </p>
-# 
+### Languages and Tools
+  <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/ptyhon-logo.jpeg" alt=""   width="40px" />
+   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/flask-logo.png" alt=""   width="40px" />
+   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/sql-logo.png" alt=""   width="40px" />
+   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/html-logo.png" alt=""   width="40px" />
+   <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/css-log.png" alt=""   width="40px" />
+    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/javasript-logo.jpeg" alt=""   width="40px" />
+    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/fatAPI-logo.png" alt=""   width="40px" />
+    <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/pycharm-logo.jpeg" alt=""   width="40px" />
+     <img src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/vsCode-logo.png" alt=""   width="40px" />
+   
 <!--
 **SteffanSingh/SteffanSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
