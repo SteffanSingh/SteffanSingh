@@ -50,7 +50,7 @@
   
    <details> <summary><h3>⚡ Fun facts</h3> </summary>
       I like playing chess and watching hollywood comedy, action, suspense movies and series.<br>
-   Wanna play chess with me 😄😄😄😄😄<br> 
+   Wanna play chess with me ? 😄😄😄😄😄<br> 
     
   </details>
 <!--
