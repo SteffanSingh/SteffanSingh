@@ -24,7 +24,7 @@
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/7ce27075e78ce19d1101b77184d2ba136c8c3d62/postman-logo.png" alt=""   width="40px" />
     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/pycharm-logo.jpeg" alt=""   width="40px" />
      <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/9504f84a9a13874d2ba955d91fae341f4da1572a/vsCode-logo.png" alt=""   width="40px" />
-     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/4fc533581b2f428813ec463255e6a54c9d56d690/Images/docker-logo.png" alt=""   width="40px" /><br><br>
+     <img align="left" style="padding-right:10px;"  src="https://github.com/SteffanSingh/SteffanSingh/blob/4fc533581b2f428813ec463255e6a54c9d56d690/Images/docker-logo.png" alt="" height="50px"  width="60px" /><br><br>
      
    
  <hr/> 
