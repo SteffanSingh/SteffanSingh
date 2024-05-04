@@ -1,6 +1,6 @@
 
  
-# <img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt=""   width="30px" style="display: inline-block;" /> Steffan &nbsp;[<img src="https://github.com/SteffanSingh/SteffanSingh/blob/b15ebd30dece952e73467f80c6b7a5de93badd6b/Linkedln-Logo.png" alt=""   width="30px" style="display: inline-block;" />](https://www.linkedin.com/in/ashutosh-kapoor/) [<img   width="30px" src="https://github.com/SteffanSingh/SteffanSingh/blob/33cc87231d63e0703a57e53dc361299c0ec53964/Images/cv-logo.png"  alt=" Steffan CV">](https://1drv.ms/b/s!AhoLEc6fClnVvz3DdVm9ITRwfIod?e=Zzgp4J)
+# <img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt=""   width="30px" style="display: inline-block;" /> Steffan &nbsp;[<img src="https://github.com/SteffanSingh/SteffanSingh/blob/b15ebd30dece952e73467f80c6b7a5de93badd6b/Linkedln-Logo.png" alt=""   width="30px" style="display: inline-block;" />](https://www.linkedin.com/in/ashutosh-kapoor/) [<img   width="30px" src="https://github.com/SteffanSingh/SteffanSingh/blob/33cc87231d63e0703a57e53dc361299c0ec53964/Images/cv-logo.png"  alt=" Steffan CV">](https://1drv.ms/b/s!AhoLEc6fClnVvz3DdVm9ITRwfIod?e=b0fVuB)
 
 **`Software Programmer | Backend developer`**
  <p> Hi there👋. I am a  Backend Developer with creative and optimistic mind. I am a recent graduate from MASTERSCHOOL in Software engineering.I have a progressive mind with artistic heart that i utilize in my professional field.<br>
