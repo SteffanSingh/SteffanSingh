@@ -3,9 +3,11 @@
 # <img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt=""   width="30px" style="display: inline-block;" /> Steffan &nbsp;[<img src="https://github.com/SteffanSingh/SteffanSingh/blob/b15ebd30dece952e73467f80c6b7a5de93badd6b/Linkedln-Logo.png" alt=""   width="30px" style="display: inline-block;" />](https://www.linkedin.com/in/ashutosh-kapoor/) [<img   width="30px" src="https://github.com/SteffanSingh/SteffanSingh/blob/33cc87231d63e0703a57e53dc361299c0ec53964/Images/cv-logo.png"  alt=" Steffan CV">](https://1drv.ms/b/s!AhoLEc6fClnVv0B33n5AldfugLVv?e=MaV8Yo)
 
 **`Software Programmer | Backend developer`**
- <p> Hi there👋. I am a  Backend Developer with creative and optimistic mind. I am a recent graduate from MASTERSCHOOL in Software engineering.I have a progressive mind with artistic heart that i utilize in my professional field.<br>
-        I am proficient in Python| Flask| SQL for backend developing and ready to explore my career as a backend developer and to upgrade my learning to  next level while working. <br>
-        I am assured that my aptitude and attitude can contribute considerable value to any project team.
+ <p> Hello! 👋 I'm a Backend Developer with a creative and positive outlook. I recently graduated from MASTERSCHOOL with a degree in Software Engineering. I bring a blend of progressive thinking and artistic passion to my professional work.
+
+I am skilled in Python, Flask, and SQL, and I'm currently expanding my knowledge by learning JAVA for backend development. I'm eager to advance my career as a backend developer and continuously enhance my skills while on the job.
+
+I'm confident that my abilities and mindset can add significant value to any project team.
   </p>
   <hr/>
  <p> 
@@ -56,10 +58,10 @@
 
 <hr/>
   
- <details> <summary><h3>👨‍💻  Steffan`s journey</h3> </summary>
-            I started my coding journey with Masterchool Software engineerirng program. Although i was always curious since my childood about how coding is responsible for all great things in software field, like in wesite developement, social-networking website or AI fucntionality.<br> 
-   I was looking for an opportunity to explore my coding skill to build the websites and web applications. Eventually, i took the steps and got some software expertises   with Masterschool.<br>
-   Looking forward to excel as a backend developer globally.
+ <details> <summary><h3>👨‍💻  Steffan`s journey</h3> </summary>My coding journey began with the Masterchool Software Engineering program. Since childhood, I have been curious about how coding drives remarkable innovations in the software field, such as website development, social networking sites, and AI functionality. 
+I sought opportunities to develop my coding skills to build websites and web applications. Ultimately, I took the plunge and gained software expertise through Masterschool.
+
+I am excited to excel as a backend developer on a global scale.
   </details> 
 
    <hr/>
@@ -71,8 +73,8 @@
    <hr/>
   
    <details> <summary><h3>⚡ Fun facts</h3> </summary>
-      Apart from Programming, i like playing chess and watching hollywood comedy, action, suspense movies and series.<br>
-   Wanna play chess with me ? 😄😄😄😄😄<br> 
+      Aside from programming, I enjoy playing chess and watching Hollywood comedies, action, and suspense movies and series.
+Care for a game of chess? 😄😄😄😄😄<br> 
     
   </details>
 <!--
