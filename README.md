@@ -31,7 +31,7 @@ I'm confident that my abilities and mindset can add significant value to any pro
  <hr/> 
  
   
- ## 📺YouTube Videos and Project Demos 
+ ## 📺 Project Demos YouTube Videos
  
 
 <div style="display:flex;flex-wrap:wrap;justify-content: space-between;">
