@@ -37,7 +37,7 @@
     <img src="https://github.com/SteffanSingh/BookAlchemy/blob/c54cf7542d3614e056ad598b55426e434a189042/Project-Images/book-library-front.png" alt="Book Alchemy Demo" width="250">
   </a>
   <a href="https://youtu.be/aiZVlWMnHu8" style="margin-right: 10px; margin-bottom: 10px;">
-    <img src="https://github.com/SteffanSingh/MovieStar-Show/blob/999a0fedef5a7a39aa7f701c18257bf35534f1a1/Project%20images/movieStarshow4.png" alt="MovieStar-Show Demo" width="250">
+    <img src="https://github.com/SteffanSingh/MovieStar-Show/blob/602b05d4e804c329c116675e0f8288f0bffa70b7/Project%20images/MovieStarShow5.png" alt="MovieStar-Show Demo" width="250">
   </a>
 </div>
 
