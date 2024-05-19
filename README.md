@@ -38,7 +38,7 @@ I'm confident that my abilities and mindset can add significant value to any pro
  <a href="https://youtu.be/gKQUCXWRmWI"   margin-right: 10px; margin-bottom: 10px;">
     <img src="https://github.com/SteffanSingh/BookAlchemy/blob/c54cf7542d3614e056ad598b55426e434a189042/Project-Images/book-library-front.png" alt="Book Alchemy Demo" width="250">
   </a>
-<a href="https://youtu.be/s_AZ-C8TdFQ"   margin-right: 10px; margin-bottom: 10px;">
+<a href="https://youtu.be/aiZVlWMnHu8"   margin-right: 10px; margin-bottom: 10px;">
     <img src="https://github.com/SteffanSingh/SteffanSingh/blob/8759a65f8547ea2cb692243de76e24f8449b6583/moveiStar-thumb.png" alt="MovieStar-Show Demo" width="250">
   </a>
 
