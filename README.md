@@ -30,7 +30,7 @@
 <br/><br/>
 <hr/>
 
-## 📺 Project Demos YouTube Videos
+## 📺 Project Demos 
 
 <div style="display:flex;flex-wrap:wrap;justify-content: space-between;">
   <a href="https://youtu.be/gKQUCXWRmWI" style="margin-right: 10px; margin-bottom: 10px;">
