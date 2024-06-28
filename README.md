@@ -1,4 +1,4 @@
-# <img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="Eagle Logo" width="30px" style="display: inline-block;" /> Steffan Singh
+# <img src="https://github.com/SteffanSingh/SteffanSingh/blob/3201c6905d30a6830e5bffcf6b2ada9d587331d3/eagle-logo.jpeg" alt="Eagle Logo" width="30px" style="display: inline-block;" /> Ashutosh Kapoor
 
 [<img src="https://github.com/SteffanSingh/SteffanSingh/blob/b15ebd30dece952e73467f80c6b7a5de93badd6b/Linkedln-Logo.png" alt="LinkedIn" width="30px" style="display: inline-block;" />](https://www.linkedin.com/in/ashutosh-kapoor/)
 [<img src="https://github.com/SteffanSingh/SteffanSingh/blob/33cc87231d63e0703a57e53dc361299c0ec53964/Images/cv-logo.png" alt="Steffan CV" width="30px" style="display: inline-block;" />](https://1drv.ms/b/s!AhoLEc6fClnVv0B33n5AldfugLVv?e=MaV8Yo)
