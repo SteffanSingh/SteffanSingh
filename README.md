@@ -5,7 +5,7 @@
 
 **`Software Programmer | Backend Developer`**
 
-<p>Hello! 👋 I'm a Backend Developer with a creative and positive outlook. I completed Software Engineering from MASTERSCHOOL. I bring a blend of progressive thinking and artistic passion to my professional work.</p>
+<p>Hello! 👋 I'm a Backend Developer with a creative and positive outlook. I have completed Software Engineering from MASTERSCHOOL. I bring a blend of progressive thinking and artistic passion to my professional work.</p>
 
 <p>I am skilled in Python, Flask, JavaScript, HTML/CSS, and SQL, and I'm currently expanding my knowledge by learning Java for backend development. I'm eager to advance my career as a backend developer and continuously enhance my skills while on the job.</p>
 
